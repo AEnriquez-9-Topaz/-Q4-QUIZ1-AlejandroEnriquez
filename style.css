@@ -1,0 +1,71 @@
+ {
+		margin: 0px;
+		padding: 0px;
+
+	}
+					
+
+html, body {
+
+		  margin: 0;
+		  height: 100%;
+		  text-align: center;
+		  background-image: url(https://img.freepik.com/premium-photo/high-resolution-close-up-light-yellow-felt-fabric-texture-rough-fleecy-fabric-yellow-color_261860-1227.jpg?w=360);
+		  background-size: cover;
+		  height: 100%;
+		  background-repeat: repeat;
+
+
+
+		}
+.Box {
+	background-color: rgb(67, 62, 14, 0.8);
+	margin: 70px;
+	border-radius: 10px;
+	font-family: Noto;
+	padding: 20px;
+	color: ghostwhite;
+}
+
+
+.left {
+	text-align: left;
+
+}
+
+.Noto {
+	font-family: Noto sans;
+}
+
+img {
+	border-radius: 20px;
+	border: 3px solid black;
+}
+
+.cen {
+	text-align: center;
+	
+}
+
+
+
+.charm {
+	font-family: Charm;
+}
+
+}
+
+h1 {
+	font-family: Sour Gummy;
+}
+
+
+a:link {
+	color: ghostwhite;
+	text-decoration: none;
+}
+
+a:visited {
+	color: ghostwhite;
+	text-decoration: none;
+}
